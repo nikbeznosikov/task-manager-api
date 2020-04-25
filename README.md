@@ -1,3 +1,6 @@
+This API has CRUD for users and CRUD for tasks
+
+
 # task-manager-api
 
 Set up this variables in config/dev.env
